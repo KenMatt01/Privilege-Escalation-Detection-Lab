@@ -1,4 +1,4 @@
-# 🚨 Privilege Escalation Detection Lab (Wazuh SIEM)
+# Privilege Escalation Detection Lab (Wazuh SIEM)
 
 ![Security](https://img.shields.io/badge/Category-Cybersecurity-red) ![SIEM](https://img.shields.io/badge/SIEM-Wazuh-blue) ![MITRE](https://img.shields.io/badge/MITRE-T1548.003%20%7C%20T1136-orange) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
