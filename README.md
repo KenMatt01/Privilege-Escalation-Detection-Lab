@@ -1,3 +1,4 @@
+<img width="1840" height="801" alt="Screenshot 2026-04-14 210218" src="https://github.com/user-attachments/assets/d69c1e90-ed1e-4b6c-905d-9cd77fa6a575" />
 # 🚨 Privilege Escalation Detection Lab (Wazuh SIEM)
 
 ![Security](https://img.shields.io/badge/Category-Cybersecurity-red) ![SIEM](https://img.shields.io/badge/SIEM-Wazuh-blue) ![MITRE](https://img.shields.io/badge/MITRE-T1548.003%20%7C%20T1136-orange) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
@@ -116,7 +117,8 @@ sudo: pam_unix(sudo:session): session opened for user root
 > *Screenshot placeholder: /var/log/auth.log entries*
 
 ### Wazuh Alerts
-> *Screenshot placeholder: Wazuh alert dashboard*
+<img width="1840" height="801" alt="Screenshot 2026-04-14 210218" src="https://github.com/user-attachments/assets/6e615d03-7bb8-4761-ba2a-487f27d6bfe8" />
+
 
 ---
 
