@@ -110,13 +110,16 @@ sudo: pam_unix(sudo:session): session opened for user root
 ## 📸 Screenshots
 
 ### Privilege Escalation
-> *Screenshot placeholder: sudo abuse and root shell*
+<img width="900" height="723" alt="Screenshot 2026-04-14 203105" src="https://github.com/user-attachments/assets/583029fd-7fd7-4f6f-abf3-003e51f9bb20" />
+
 
 ### Authentication Logs
-> *Screenshot placeholder: /var/log/auth.log entries*
+<img width="1866" height="809" alt="Screenshot 2026-04-14 210017" src="https://github.com/user-attachments/assets/4f706bbb-6bcb-491e-808f-c79ee2e18fd4" />
+
 
 ### Wazuh Alerts
 <img width="1840" height="801" alt="Screenshot 2026-04-14 210218" src="https://github.com/user-attachments/assets/6e615d03-7bb8-4761-ba2a-487f27d6bfe8" />
+<img width="1230" height="346" alt="Screenshot 2026-04-14 211325" src="https://github.com/user-attachments/assets/eb98034d-ec29-486d-85c8-f01169607008" />
 
 
 ---
