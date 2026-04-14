@@ -1,4 +1,4 @@
-# 🚨 Incident Report: Privilege Escalation via Sudo Misconfiguration
+# Incident Report: Privilege Escalation via Sudo Misconfiguration
 
 ![Type](https://img.shields.io/badge/Incident%20Type-Privilege%20Escalation-red) ![Severity](https://img.shields.io/badge/Severity-High-critical) ![Status](https://img.shields.io/badge/Status-Resolved-brightgreen) ![MITRE](https://img.shields.io/badge/MITRE-T1548.003%20%7C%20T1136-blue)
 
