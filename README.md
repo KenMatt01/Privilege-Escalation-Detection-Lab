@@ -18,6 +18,16 @@ This project simulates a privilege escalation attack on a Linux system through a
 
 ---
 
+## 🔗 Attack Chain
+
+1. Initial Access → Created low-privileged user (analyst)
+2. Privilege Misconfiguration → Sudo rule allowing find
+3. Privilege Escalation → Root shell via find abuse
+4. Persistence → Backdoor user creation
+5. Detection → Wazuh SIEM alerts triggered
+
+---
+
 ## ⚔️ Attack Simulation
 
 A low-privileged user was created and granted misconfigured sudo permissions:
